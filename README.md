@@ -14,7 +14,7 @@ This repository includes a list of all GitHub submissions to [Medusa’s Hackath
 
 ## How do I submit my project?
 
-This repository is not open for sending submissions. Please send your submissions to this discussion thread instead. Our team will weekly update this repository with new submissions.
+This repository is not open for sending submissions. Please send your submissions to [this discussion thread](https://github.com/medusajs/medusa/discussions/2280) instead. Our team will weekly update this repository with new submissions.
 
 ---
 
