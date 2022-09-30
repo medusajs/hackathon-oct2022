@@ -2,8 +2,6 @@
 
 ![Medusa Hackathon](hackathon-banner-large-purple-min.jpeg)
 
-[Twitter](https://twitter.com/medusajs) | [LinkedIn](https://www.linkedin.com/company/medusajs) | [Discord](https://discord.gg/medusajs) | [GitHub](https://github.com/medusajs/medusa) | [Website](https://medusajs.com/)
-
 <h4 align="center">
   <a href="https://twitter.com/medusajs">Twitter</a> |
   <a href="https://www.linkedin.com/company/medusajs">LinkedIn</a> |
