@@ -1,6 +1,6 @@
 # Hackathon 2022 Submissions Overview
 
-![Medusa Hackathon](hackathon-banner-large-purple-min.jpeg)
+![Medusa Hackathon](hackathon-banner.jpeg)
 
 <h4 align="center">
   <a href="https://twitter.com/medusajs">Twitter</a> |
